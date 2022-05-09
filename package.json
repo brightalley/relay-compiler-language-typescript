@@ -1,6 +1,6 @@
 {
   "name": "@brightalley/relay-compiler-language-typescript",
-  "version": "15.0.1",
+  "version": "15.0.2",
   "description": "A language plugin for Relay that adds TypeScript support, including emitting type definitions.",
   "keywords": [
     "graphql",
